@@ -1,5 +1,4 @@
 ---
-published: true
-title: null
+title: index
 layout: default
 ---
