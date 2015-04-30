@@ -2,6 +2,6 @@
 published: true
 layout: default
 
-title: ¡Tutoriales!
+title: Week two
 category: section
 ---
