@@ -11,7 +11,6 @@ published: true
 </center>
 
 <br><br>
-<br><br>
 
 <div align="right">
 Created by Tom Hackshaw
