@@ -1,9 +1,9 @@
 ---
-title: index
+title: 
 layout: default
+published: true
 ---
 
-Created by Tom Hackshaw
 <br>
 
 <img src="https://i.imgur.com/To2hbEZl.jpg">
